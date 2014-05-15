@@ -1,0 +1,116 @@
+html {
+	background:url(mountain.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover ;
+	-moz-background-size: cover ;
+	-o-background-size: cover ;
+	background-size: cover ;
+}
+#basic {
+	background:url(Sand.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover ;
+	-moz-background-size: cover ;
+	-o-background-size: cover ;
+	background-size: cover ;
+}
+#my_story {
+	background:url(green.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover ;
+	-moz-background-size: cover ;
+	-o-background-size: cover ;
+	background-size: cover ;
+}
+#roping {
+	background:url(rc.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover ;
+	-moz-background-size: cover ;
+	-o-background-size: cover ;
+	background-size: cover ;
+}
+
+#intro{
+
+    text-align: center;
+
+	font-family:'Share+Tech+Mono';
+	font-size:20px;
+	color: white;
+	width:1000px;
+	height:1000px;
+	margin-left:100px;
+
+}
+
+#ropeup{
+
+    text-align: center;
+
+	font-family:'Share+Tech+Mono';
+	font-size:20px;
+	color: black;
+	width:800px;
+	height:400px;
+	margin-left:100px;
+
+}
+
+#rp{
+
+    text-align: center;
+
+	font-family:'Share+Tech+Mono';
+	font-size: 20;
+	color: black;
+
+}
+#intro1{
+
+  
+
+	font-family:'Share+Tech+Mono';
+	font-size: 16px; 
+	color:white;
+	width:1000px;
+	height:1000px;
+
+}
+
+.title{
+
+
+	font-family: 'Bangers';
+	font-size: 35px;
+	color: #7BAB89;
+	margin-top:-24px;
+}
+#pic1:hover{
+opacity:0.5;
+
+}
+
+#pic2:hover{
+opacity:0.5;
+
+}
+
+
+#introtext{
+
+    text-align: center;
+
+	font-family:'Share+Tech+Mono';
+	font-size:20px;
+	color: white;
+	width:1000px;
+	height:1000px;
+	margin-left:100px;
+}
+
+#roc{
+
+    text-align: center;
+
+	font-family:'Share+Tech+Mono';
+	font-size:30px;
+	color: white;
+	margin-left:80px;
+}
